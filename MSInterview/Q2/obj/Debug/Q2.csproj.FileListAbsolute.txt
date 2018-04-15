@@ -3,3 +3,6 @@ c:\users\administrator\documents\visual studio 2015\MSInterview\InterviewQuestio
 c:\users\administrator\documents\visual studio 2015\MSInterview\InterviewQuestionCoding\Q2\bin\Debug\Q2.pdb
 c:\users\administrator\documents\visual studio 2015\MSInterview\InterviewQuestionCoding\Q2\obj\Debug\Q2.exe
 c:\users\administrator\documents\visual studio 2015\MSInterview\InterviewQuestionCoding\Q2\obj\Debug\Q2.pdb
+C:\Users\Administrator\Documents\visual studio 2015\MSInterview\InterviewQuestionCoding\algorithm\MSInterview\Q2\bin\Debug\Q2.exe.config
+C:\Users\Administrator\Documents\visual studio 2015\MSInterview\InterviewQuestionCoding\algorithm\MSInterview\Q2\obj\Debug\Q2.exe
+C:\Users\Administrator\Documents\visual studio 2015\MSInterview\InterviewQuestionCoding\algorithm\MSInterview\Q2\obj\Debug\Q2.pdb
