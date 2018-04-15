@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\MSInterview\InterviewQuestionCoding\InterviewQuestionCoding\bin\Debug\InterviewQuestionCoding.exe.config
+c:\users\administrator\documents\visual studio 2015\MSInterview\InterviewQuestionCoding\InterviewQuestionCoding\bin\Debug\InterviewQuestionCoding.exe
+c:\users\administrator\documents\visual studio 2015\MSInterview\InterviewQuestionCoding\InterviewQuestionCoding\bin\Debug\InterviewQuestionCoding.pdb
+c:\users\administrator\documents\visual studio 2015\MSInterview\InterviewQuestionCoding\InterviewQuestionCoding\obj\Debug\Q1.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\MSInterview\InterviewQuestionCoding\InterviewQuestionCoding\obj\Debug\InterviewQuestionCoding.exe
+c:\users\administrator\documents\visual studio 2015\MSInterview\InterviewQuestionCoding\InterviewQuestionCoding\obj\Debug\InterviewQuestionCoding.pdb

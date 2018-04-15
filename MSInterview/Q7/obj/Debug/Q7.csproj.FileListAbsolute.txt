@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\MSInterview\InterviewQuestionCoding\Q7\bin\Debug\Q7.exe.config
+c:\users\administrator\documents\visual studio 2015\MSInterview\InterviewQuestionCoding\Q7\bin\Debug\Q7.exe
+c:\users\administrator\documents\visual studio 2015\MSInterview\InterviewQuestionCoding\Q7\bin\Debug\Q7.pdb
+c:\users\administrator\documents\visual studio 2015\MSInterview\InterviewQuestionCoding\Q7\obj\Debug\Q7.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\MSInterview\InterviewQuestionCoding\Q7\obj\Debug\Q7.exe
+c:\users\administrator\documents\visual studio 2015\MSInterview\InterviewQuestionCoding\Q7\obj\Debug\Q7.pdb
